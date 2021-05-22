@@ -15,7 +15,7 @@ I'm currently working on the @Kritterhouse maintaining/developing the USBWorld a
 
 You can contact me via the following methods:
 
-- [Telegram](t.me/citizensixtynine)
+- [Telegram](https://t.me/citizensixtynine)
 - [Keybase](https://keybase.io/kamikodev)
 - Matrix: @citizensixtynine:matrix.alloca.dev
 - Discord: Yoko#0432
