@@ -17,7 +17,7 @@ You can contact me via the following methods:
 
 - [Telegram](t.me/citizensixtynine)
 - [Keybase](https://keybase.io/kamikodev)
-- [Matrix](@citizensixtynine:matrix.alloca.dev)
+- Matrix: @citizensixtynine:matrix.alloca.dev
 - Discord: Yoko#0432
 - Text/Call me (if you want i guess): +1 (781) 302-6856
 
