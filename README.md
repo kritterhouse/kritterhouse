@@ -2,7 +2,7 @@
 
 ![Dab on dem haters](/ast/dab.gif)
 
-#### About me 🦊
+### About me 🦊
 My name is **Leila**, I'm a full-stack(ish) senior developer from Mexico City! 
 
 I'm a trans woman who uses the pronouns they/she
@@ -11,7 +11,7 @@ My hobbies are just coding, video editing, making music and being a useless memb
 
 I'm currently working on the @Kritterhouse maintaining/developing the USBWorld and "The Kritter Archive" projects.
 
-##### Contact me ☎️
+### Contact me ☎️
 
 You can contact me via the following methods:
 
@@ -21,7 +21,7 @@ You can contact me via the following methods:
 - Discord: Yoko#0432
 - Text/Call me (if you want i guess): +1 (781) 302-6856
 
-#### Knowledge 🧠
+### Knowledge 🧠
 
 I develop with the following languages:
 - C++ (17)
@@ -44,7 +44,7 @@ I also speak the following languages:
 - Spanish (native)
 - German (beginner)
 
-#### Projects 🚧
+### Projects 🚧
 
 Completed:
 - YMGv2 - The "Your Mum Gay v2" semi-permissive license
