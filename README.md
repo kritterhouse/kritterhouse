@@ -5,7 +5,6 @@ My name's Kris, I'm a Content Creator based in Mexico City.
 I'm the Founder/Owner of Kritterhouse, a media company that promotes Open Source solutions to non-common problems (like Game Controllers!).
 
 ## Contacting Me/Ways to contact me 📇
-**DISCLAIMER: Before you contact me, it would be of great help to read [this website](https://c69.uk/b4ucm)**
 
 - Email: <kris@memeware.net>
 	- for Kritterhouse/Rybo inquiries, email <kris@kritterhouse.xyz>
