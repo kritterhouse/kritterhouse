@@ -1,62 +1,30 @@
-## Hey, Welcome to my profile! 🌺
+## Kris Pineda - C69
+### Who am I 🕵️
+My name's Kris, I'm a Content Creator based in Mexico City.
 
-![Dab on dem haters](/ast/dab.gif)
+I'm the Founder/Owner of Kritterhouse, a media company that promotes Open Source solutions to non-common problems (like Game Controllers!).
 
-### About me 🦊
-My name is **Leila**, I'm a full-stack(ish) senior developer from Mexico City! 
+### Contacting Me/Ways to contact me 📇
+**DISCLAIMER: Before you contact me, it would be of great help to read [this website](https://c69.uk/b4ucm)**
 
-I'm a trans woman who uses the pronouns they/she
+- Email: <kris@memeware.net>
+	- for Kritterhouse/Rybo inquiries, email <kris@kritterhouse.xyz>
+- Telegram: [@citizensixtynine](https://telegram.dog/citizensixtynine)
+- Guilded: [/citizensixtynine](https://www.guilded.gg/profile/xAY0pGGm)
+- Pictochat: 2pm - 4pm @ Arby's 
 
-My hobbies are just coding, video editing, making music and being a useless member of society!
+### Github Stats 📊
+![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=CITIZENSIXTYNINE&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citizensixtynine&theme=dracula)
 
-I'm currently working on the @Kritterhouse maintaining/developing the USBWorld and "The Kritter Archive" projects.
-
-### Contact me ☎️
-
-You can contact me via the following methods:
-
-- [Telegram](t.me/citizensixtynine)
-- [Keybase](https://keybase.io/kamikodev)
-- Matrix: @citizensixtynine:matrix.alloca.dev
-- Discord: Yoko#0432
-- Text/Call me (if you want i guess): +1 (781) 302-6856
-
-### Knowledge 🧠
-
-I develop with the following languages:
+### Skills and Knowledge 🧠
+#### Programming 🔧
 - C++ (17)
-- Go (>1.16)
-- Python (3.X)
+- Go (>=1.16)
 - CSS (3)
-- Java (8)
 
-I'm also good (or at least know how to use) the following tools:
-- Git
-- Visual Studio Code
-- GIMP
-- Ableton Live
-- Kdenlive
-- Vegas Pro (8)
-- Any Office Suite (say Google Docs, Libreoffice, Micheal$haft Office, etc)
-
-I also speak the following languages:
-- English (native)
-- Spanish (native)
+#### Languages 🗣️
+- English (Native)
+- Spanish (Native)
 - German (beginner)
 
-### Projects 🚧
-
-Completed:
-- YMGv2 - The "Your Mum Gay v2" semi-permissive license
-
-Ongoing:
-- SeaSixty - Yet another Dracula theme for Discord.
-- The Kritter Archive - Archive dedicated to saving lost media and odd computer software (say Tor Browser releases for example)
-- We Think We're Playing in a Band - Essay about the band "Tally Hall"
-- Untitled Retrospective Essay - Essay about Comedy on Youtube and the internet as a whole 
-
-Paused:
-- USBWorld - DeadDrops but on the go!
-
-Cancelled:
-- Discordo - Discord API C++ Wrapper; Cancelled late-2020
