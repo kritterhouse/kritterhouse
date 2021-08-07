@@ -1,9 +1,8 @@
 <h1 align="center">
-Hello there! I'm Kris
+Hello there! I'm Kris 🤙
 </h1>
 <p align="center"> Content Creator from Mexico City 🇲🇽
 </p>
-![Kris's GitHub stats]()
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CITIZENSIXTYNINE&show_icons=true&theme=dracula"></a>
 </p>
@@ -23,17 +22,26 @@ Hello there! I'm Kris
 + Guilded: [/citizensixtynine](https://www.guilded.gg/profile/xAY0pGGm)
 + Pictochat: 2pm - 4pm @ Arby's 
 
-## Github Stats 📊
-
-
 ## Knowledge 🧠
-### Programming 🔧
+### Programming  💻
 + C++ (17)
 + Go (>=1.16)
 + CSS (3)
+
+### Tools 🔧
++ Linux (As if it wasn't obvious)
++ Git (preferably under Gitkraken)
++ Github
++ Github Copilot
++ Figma
++ Sublime Text (main)
++ Visual Studio Code (secondary)
++ Kdenlive
++ GIMP
 
 ### Languages 🗣️
 - English (Native)
 - Spanish (Native)
 - German (beginner)
 
+---
