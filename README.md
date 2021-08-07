@@ -23,7 +23,7 @@ Hello there! I'm Kris 🤙
 + Pictochat: 2pm - 4pm @ Arby's 
 
 ## Knowledge 🧠
-### Programming  💻
+### Programming 🧑‍💻
 + C++ (17)
 + Go (>=1.16)
 + CSS (3)
@@ -44,4 +44,15 @@ Hello there! I'm Kris 🤙
 - Spanish (Native)
 - German (beginner)
 
----
+<h2 align="center">
+Workspace (Gear and Tools I'm Currently Using) 💻
+</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Huawei Matebook D 14 2020-#FF0000?style=for-the-badge&logo=huawei}&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_3500u?style=for-the-badge&logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<img src"https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+</p>
+
