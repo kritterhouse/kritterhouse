@@ -48,8 +48,8 @@ Hello there! I'm Kris 🤙
 Workspace (Gear and Tools I'm Currently Using) 💻
 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Huawei Matebook D 14 2020-#FF0000?style=for-the-badge&logo=huawei}&logoColor=white" />
-<img src="https://img.shields.io/badge/AMD-Ryzen_5_3500u?style=for-the-badge&logo=amd&logoColor=white" />
+<img src="https://img.shields.io/badge/Huawei Matebook D 14 2020-FF0000?style=for-the-badge&logo=huawei}&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD-Ryzen_5_3500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 <img src"https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
