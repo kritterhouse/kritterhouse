@@ -51,8 +51,8 @@ Workspace (Gear and Tools I'm Currently Using) 💻
 <img src="https://img.shields.io/badge/Huawei Matebook D 14 2020-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 <img src="https://img.shields.io/badge/Fedora 34-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/GNOME 40-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
-<img src="https://img.shields.io/badge/Google Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Google Chrome-F4B400?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Sublime Text-575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-<img src="https://img.shields.io/badge/And a lot of Coffee-674228.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/And a lot of Coffee-674228.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=important" />
 </p>
 
