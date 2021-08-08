@@ -26,10 +26,10 @@ Hello there! I'm Kris 🤙
 ### Programming 🧑‍💻
 + C++ (17)
 + Go (>=1.16)
-+ CSS (3)
++ CSS (3) (w/ Sass)
 
 ### Tools 🔧
-+ Linux (As if it wasn't obvious)
++ Linux (long time experience with Fedora/RHEL-based distros)
 + Git (preferably under Gitkraken)
 + Github
 + Github Copilot
@@ -49,10 +49,10 @@ Workspace (Gear and Tools I'm Currently Using) 💻
 </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Huawei Matebook D 14 2020-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
-<img src="https://img.shields.io/badge/Ryzen_5_3500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/Fedora 34-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/GNOME 40-4A86CF?style=for-the-badge&logo=gnome&logoColor=white" />
+<img src="https://img.shields.io/badge/Google Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Sublime Text-575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/And a lot of Coffee-674228.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
 
