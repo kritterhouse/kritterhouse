@@ -30,11 +30,11 @@ Hello there! I'm Kris 🤙
 + Reddit: [u/l31la](https://reddit.com/u/l31la)
 + Tumblr: [mexicanmcflurry](mexicanmcflurry.tumblr.com)
 + Mastodon (more personal posts): [@citizensixtynine](https://skrt.social/@citizensixtynine)
-
++ Hashnode: [profile](https://hashnode.com/@citizensixtynine)/[blog](https://b.c69.uk)
 
 ## Knowledge 🧠
 ### Programming 🧑‍💻
-+ C++ (17)
++ C/C++ (17)
 + Go (>=1.16)
 + CSS (3) (w/ Sass)
 + Python (3)
@@ -58,10 +58,12 @@ Hello there! I'm Kris 🤙
 Workspace (Gear and Tools I'm Currently Using) 💻
 </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Huawei Matebook D 14 2020-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+<img src="https://img.shields.io/badge/Matebook D14 2020-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
 <img src="https://img.shields.io/badge/Fedora 34-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Chrome-F4B400?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Sublime Text-575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
+
 </p>
 
 <!-- I see you like snooping through RAW Markdown files, take anything you want. Its yours now. -->
