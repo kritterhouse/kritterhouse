@@ -11,7 +11,7 @@
 + 🕸️ I focus on UI Development and writing Documentation for projects.
 + 📼 I'm working as a Freelance Video Editor.
 + ❤️‍ My hobbies are Coding, Writing, Archiving Lost Media and Producing Music.
-+ 💡 I'm currently learning German.
++ 💡 I'm currently learning German and Russian.
 + 👋 My pronouns are they/them!
 
 <h2 align="center">Contacting Me/Ways to contact me ☎️</h2>
@@ -20,26 +20,16 @@
 	- for Business (Kritterhouse included) inquiries <kris@memeware.net>
 + Telegram: [@citizensixtynine](https://t.me/citizensixtynine)
 + Keybase: [@kamikodev](https://keybase.io/kamikodev)
-	
-<h2 align="center">Socials 🗑️</h2>
-
-+ Twitter: [@kindapale](https://twitter.com/kindapale)
-+ Reddit: [u/l31la](https://reddit.com/u/l31la)
-+ Tumblr: [@mexicanmcflurry](https://www.tumblr.com/blog/mexicanmcflurry)
-+ Hashnode: [profile](https://hashnode.com/@citizensixtynine)/[blog](https://b.c69.uk)
 
 <h2 align="center">Knowledge 🧠</h2>
 
 ### Programming 🧑‍💻
-+ C/C++ (17)
 + Go (>=1.16)
 + Python (3)
 + CSS (3) (w/ Sass)
 
 ### Tools 🔧
 + Linux (long time experience with Fedora/RHEL-based distros)
-+ Git (preferably under Gitkraken)
-+ Figma
 + Sublime Text
 + Kdenlive
 + GIMP
@@ -47,7 +37,7 @@
 ### Languages 🗣️
 - English (Native)
 - Spanish (Native)
-- German (beginner)
+- German (Read-only)
 
 <h2 align="center">Workspace (Gear and Tools I'm Currently Using) 💻</h2>
 
@@ -59,5 +49,5 @@
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
 </p>
 
-<!-- CITIZENSIXTYNINE Github Profile - September 10 2021 -->
+<!-- CITIZENSIXTYNINE Github Profile - October 6th 2021 -->
 <!-- I see you like snooping through RAW Markdown files, take anything you want. Its yours now. -->
