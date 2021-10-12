@@ -11,15 +11,15 @@
 + 🕸️ I focus on UI Development and writing Documentation for projects.
 + 📼 I'm working as a Freelance Video Editor.
 + ❤️‍ My hobbies are Coding, Writing, Archiving Lost Media and Producing Music.
-+ 💡 I'm currently learning German and Russian.
++ 💡 I'm currently learning Russian.
 + 👋 My pronouns are they/them!
 
-<h2 align="center">Contacting Me/Ways to contact me ☎️</h2>
+<h2 align="center">Email Me! ☎️</h2>
 
 + Email: <citizensixtynine@protonmail.com>
 	- for Business (Kritterhouse included) inquiries <kris@memeware.net>
-+ Telegram: [@citizensixtynine](https://t.me/citizensixtynine)
-+ Keybase: [@kamikodev](https://keybase.io/kamikodev)
+
+There are no other ways to contact me, don't bother digging up my accs.
 
 <h2 align="center">Knowledge 🧠</h2>
 
