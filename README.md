@@ -17,10 +17,12 @@
 <h2 align="center">Contact Me 📭</h2>
 
 Keybase: [@kamikodev](https://keybase.io/kamikodev)
+
 Telegram: [@citizensixtynine](https://telegram.dog/citizensixtynine)
+
 Session: [057bc13dc9c66173070fec5746ed91ba736f382c0c976f33b6c5eb71f6231bff3a](https://c69.nyc3.digitaloceanspaces.com/ast/session.png)
 
-Email 📨:
+#### Mail 📨
 + for Personal/Dev stuff: <citizensixtynine@protonmail.com>
 	- for Business (Kritterhouse included) inquiries <kris@memeware.net>
 
@@ -42,7 +44,6 @@ Email 📨:
 
 <p align="center">
 <img src="https://img.shields.io/badge/Matebook D15 2020-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora 35-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Chrome-F4B400?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" />
