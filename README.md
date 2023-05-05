@@ -1,11 +1,12 @@
-<h1 align="center">Hello there! I'm Kris 🤙</h1>
-<p align="center"> Content Creator from Mexico City 🇲🇽</p>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=CITIZENSIXTYNINE&show_icons=true&theme=dracula"></a>
-</p>
----
+# hey!
 
-<div align="center"><b><a href="https://github.com/nicoleaoki">[@nicoleaoki]</a> · <a href="https://obama.solutions/@nikki">[obama.solutions]</a> · <a href="https://gitgud.io/kris">[@kris]</a></b></div>
+i'm leila.
 
-<!-- CITIZENSIXTYNINE's Github Profile - August 13th 2022 -->
+i'm not good at explaining who i am, specially in a platform that i use once every one or two eons.
+
+but you can check out my website, <0xD0.CC>, i do things there from time to time.
+
+anyways, thank you for stopping by.
+
+<!-- kritterhouse's Github Profile - 5 May 2023 -->
 <!-- I see you like snooping through RAW Markdown files, take anything you want. Its yours now. -->
