@@ -1,12 +1,12 @@
 # hey!
 
-i'm leila.
+i'm leila. but you've probably known me as kris or nicole in the past.
 
-i'm not good at explaining who i am, specially in a platform that i use once every one or two eons.
+i'm not good at explaining who i am. but i have a website that might be of help for that over at <leila.moe>.
 
-but you can check out my website, [leila.moe](https://leila.moe), i do things there from time to time.
+most of the time i do things over @runway23, a low-profit cooperative i founded alongside some friends to aid open source projects, but that's my work stuff or something.
 
-anyways, thank you for stopping by.
+that's all i guess, thank you for stopping by.
 
-<!-- kritterhouse's Github Profile - 12 October 2023 -->
+<!-- mixcoac's Github Profile - 24 February 2024 -->
 <!-- I see you like snooping through RAW Markdown files, take anything you want. Its yours now. -->
