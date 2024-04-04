@@ -2,11 +2,11 @@
 
 i'm leila. but you've probably known me as kris or nicole in the past.
 
-i'm a hardware engineer from mexico city, you can learn more about me over at [leila.moe](https://leila.moe).
+i'm a [sys](https://en.wikipedia.org/wiki/Systems_engineering)/[avn](https://en.wikipedia.org/wiki/Avionics) engineer from mexico city.
 
-nowadays i spend most of my time running [@runway23](https://github.com/runway23), a limited-profit cooperative that acts as a startup studio. might be worth to check out idk.
+i mainly use my account to contribute to projects and to run [@runway23](https://github.com/runway23), a limited-profit startup studio that i founded alongside some friends
 
-that's all i guess, thank you for stopping by. 
+you can find me over at [codeberg](https://codeberg.org/kitsune), where all my personal projects can be found. cheers.
 
 [id.txt](https://leila.moe/id.txt)
 
